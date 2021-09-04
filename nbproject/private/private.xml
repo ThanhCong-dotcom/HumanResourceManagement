@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/NhanVien.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmDangNhap.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmThongKe.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmMain.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmPhongban.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/TaoTaiKhoanDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/DangNhapDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/ChucVuDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/NhanVienDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmDoiMatKhau.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmthongtinNV.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/ChamCong.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmChamCong.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/TaiKhoan.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/HopDongDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/Luong.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmTaoTaiKhoan.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/ThuongPhatDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmCheDo.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/PhongBanDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/BaoHiemDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/LuongDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/NhanVienUser.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/PhongBan.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmLuong.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmChucVu.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/ConnectDatabase.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/ChamCongDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/BaoHiem.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/ThongKeDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/PhuCapDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/GUI/FrmHopDong.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/ChucVu.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/ThuongPhat.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/PhuCap.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/DAO/DoiMatKhauDAO.java</file>
+            <file>file:/D:/QuanLyNhanSu/src/quanlynhansu/Model/HopDong.java</file>
+        </group>
+    </open-files>
+</project-private>
